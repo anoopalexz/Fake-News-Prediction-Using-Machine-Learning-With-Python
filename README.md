@@ -7,6 +7,7 @@ This project aims to predict whether a given news article is real or fake using 
 
 ## Project Structure
 - **data**: Contains the dataset used for training and testing.
+- **link to dataset file: https://www.kaggle.com/c/fake-news/data?select=train.csv**
 - **notebooks**: Jupyter notebooks for data analysis, model development, and evaluation.
 - **src**: Python scripts for data preprocessing, model training, and prediction.
 - **README.md**: Project documentation providing an overview and basic instructions.
